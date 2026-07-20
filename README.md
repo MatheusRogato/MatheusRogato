@@ -4,7 +4,6 @@
 
 ## ⚙️ Github Stats
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatRogax&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 <br>
 
