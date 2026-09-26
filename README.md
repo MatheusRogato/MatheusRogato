@@ -19,7 +19,7 @@ Meu objetivo é resolver problemas complexos através de código limpo e manuten
 **Lojas Guido** - Maceió, Alagoas, Brasil
 - 👨‍💻 **Programador de Sistemas Junior** 
   - Atuação ativa em todo o ciclo de vida do software, desde a engenharia de requisitos, documentação, prototipagem de interfaces (UI/UX) até o deploy.
-  - Desenvolvimento de integrações, rotinas e APIs RESTful de alta performance utilizando C# (.NET) e AdvPL.
+  - Desenvolvimento de aplicações mobile com Flutter e gerenciamento de estado via BLoC, além da construção de integrações, rotinas e APIs RESTful de alta performance utilizando C# (.NET).
   - Modelagem e otimização avançada de consultas SQL e Views, garantindo performance e confiabilidade na extração de dados corporativos.
 
 - 🎓 **Estagiário de Desenvolvimento de Software** 
